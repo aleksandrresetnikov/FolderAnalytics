@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\FolderAnalytics\bin\Debug\FolderAnalytics.exe.config
+C:\Users\user\source\repos\FolderAnalytics\bin\Debug\FolderAnalytics.exe
+C:\Users\user\source\repos\FolderAnalytics\bin\Debug\FolderAnalytics.pdb
+C:\Users\user\source\repos\FolderAnalytics\obj\Debug\FolderAnalytics.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FolderAnalytics\obj\Debug\FolderAnalytics.Form1.resources
+C:\Users\user\source\repos\FolderAnalytics\obj\Debug\FolderAnalytics.Properties.Resources.resources
+C:\Users\user\source\repos\FolderAnalytics\obj\Debug\FolderAnalytics.csproj.GenerateResource.cache
+C:\Users\user\source\repos\FolderAnalytics\obj\Debug\FolderAnalytics.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FolderAnalytics\obj\Debug\FolderAnalytics.exe
+C:\Users\user\source\repos\FolderAnalytics\obj\Debug\FolderAnalytics.pdb
